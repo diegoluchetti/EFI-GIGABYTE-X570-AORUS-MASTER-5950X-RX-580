@@ -40,10 +40,6 @@
 - VoodooPS2Keyboard.kext
 - VoodooPS2Trackpad.kext
 
-## Geekbench Results:
-- https://browser.geekbench.com/v5/cpu/10291264
-- https://browser.geekbench.com/v5/compute/3491713
-- https://browser.geekbench.com/v5/compute/3491714
 
 ## Thanks/Credits
 - [Opencore Team](https://dortania.github.io/getting-started/)
