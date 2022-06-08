@@ -1,6 +1,6 @@
 # HP 246 G5 - Intel Core i5-6200U com Intel HD Graphics 520
 
-![About This Mac - Overview](https://user-images.githubusercontent.com/23700365/136425298-61e799ff-7392-448f-8f28-637d4d83c6c5.png)
+![About This Mac - Overview](efi-hp246g5.png)
 
 **Latest working macOS**: 12.4
 <br>
